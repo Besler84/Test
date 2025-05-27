@@ -1,4 +1,4 @@
 counter = 1
 while counter <= 100:
-    print("Wiederholung")
+    print(counter)
     counter += 1
